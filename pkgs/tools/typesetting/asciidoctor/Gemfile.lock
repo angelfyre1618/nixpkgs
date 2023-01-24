@@ -4,7 +4,7 @@ GEM
     Ascii85 (1.0.2)
     addressable (2.4.0)
     afm (0.2.2)
-    asciidoctor (1.5.5)
+    asciidoctor (1.5.8)
     asciidoctor-bespoke (1.0.0.alpha.1)
       asciidoctor (>= 1.5.0)
       slim (~> 3.0.6)
