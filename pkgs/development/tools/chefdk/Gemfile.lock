@@ -229,7 +229,7 @@ GEM
       net-ssh (>= 2.9, < 4.0)
       winrm (~> 1.6)
       winrm-fs (~> 0.3)
-    rack (1.6.4)
+    rack (1.6.13)
     rainbow (2.1.0)
     rake (10.5.0)
     retryable (2.0.3)
